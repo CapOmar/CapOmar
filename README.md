@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Omar Hamada</h1>
-<h3 align="center">A passionate frontend developer from Egypt</h3>
+<h6 align="center">I am a recent Electrical Engineering graduate with a passion for technology and a keen interest in transitioning into software engineering. My academic background has equipped me with strong analytical skills and a solid foundation in problem-solving, which I am eager to apply in the tech industry. I am committed to continuous learning and am currently exploring various programming languages and software development methodologies to expand my skill set. I am excited about the opportunities in software engineering and look forward to contributing to innovative projects and teams.</h6>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">

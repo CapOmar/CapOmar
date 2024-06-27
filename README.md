@@ -1,10 +1,10 @@
-<h1 align="center">Hi 👋, I'm Omar Hamada</h1>
-<h6 align="center">I am a recent Electrical Engineering graduate with a passion for technology and a keen interest in transitioning into software engineering. My academic background has equipped me with strong analytical skills and a solid foundation in problem-solving, which I am eager to apply in the tech industry. I am committed to continuous learning and am currently exploring various programming languages and software development methodologies to expand my skill set. I am excited about the opportunities in software engineering and look forward to contributing to innovative projects and teams.</h6>
+<h1 align="center">Hi 👋, I'm omar Hamada</h1>
+<h3 align="center">I am a recent Electrical Engineering graduate with a passion for technology and a keen interest in transitioning into software engineering. My academic background has equipped me with strong analytical skills and a solid foundation in problem-solving, which I am eager to apply in the tech industry. I am committed to continuous learning and am currently exploring various programming languages and software development methodologies to expand my skill set. I am excited about the opportunities in software engineering and look forward to contributing to innovative projects and teams.</h3>
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/7amada842" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="7amada842" height="30" width="40" /></a>
-<a href="https://fb.com/https://www.facebook.com/profile.php?id=100009336389245&mibextid=zbwkwl" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="https://www.facebook.com/profile.php?id=100009336389245&mibextid=zbwkwl" height="30" width="40" /></a>
+<a href="https://fb.com/omarhamada84" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="omarhamada84" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
